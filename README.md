@@ -1,4 +1,5 @@
-Memory Allocation Algorithms
+Memory Allocation Algorithms 
+
 This repository contains implementations of various memory allocation algorithms. These algorithms are essential for managing memory in operating systems.
 
 Algorithms Implemented
